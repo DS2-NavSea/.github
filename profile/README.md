@@ -2,7 +2,7 @@
 
 ## Task 3.1 (Develop the AI model)
 Advanced fusion results with value of information recommendations; AI model inference
-* DS2-lightning (https://github.com/DS2-NavSea/DS2-lightning)
+* DS2MultiModalAIFusionModel (https://github.com/DS2-NavSea/DS2MultiModalAIFusionModel)
 * LabelPropagation (https://github.com/DS2-NavSea/LabelPropagation)
 
 ## Task 3.2 (Training the classifier)
