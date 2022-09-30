@@ -1,12 +1,23 @@
-## Hi there 👋
+# NIMOY NAVSEA
 
-<!--
+## Task 3.1 (Develop the AI model)
+Advanced fusion results with value of information recommendations; AI model inference
+* DS2-lightning (https://github.com/DS2-NavSea/DS2-lightning)
+* LabelPropagation (https://github.com/DS2-NavSea/LabelPropagation)
 
-**Here are some ideas to get you started:**
+## Task 3.2 (Training the classifier)
+Postgres database with varying levels of privilege to access or modify datasets; Containerizes AI code (DeepOps) for customer to deploy pipeline for training or accessing our multimodal AI fusion models
+* NimoyDb (https://github.com/DS2-NavSea/NimoyDb)
+* NimoyDbPythonClient (https://github.com/DS2-NavSea/NimoyDbPythonClient)
+* MMTrainingTool (https://github.com/DS2-NavSea/MMTrainingTool)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Task 6.1 (Dataset generation)
+Develop a dataset to be representative of potential damage for sustainment efforts
+* NimoySimulator (https://github.com/DS2-NavSea/NimoySimulator)
+
+## Task 6.2 (Damage Assessment Tool Development)
+Develop a hybrid damage assessment algorithm based on real-time data and existing models of ship-board structures.
+* SectionLossDetection (https://github.com/DS2-NavSea/SectionLossDetection)
+* NimoyMsgs (https://github.com/DS2-NavSea/NimoyMsgs)
+* ArducamDriver (https://github.com/DS2-NavSea/ArducamDriver)
+* CameraLiDARCalibration (https://github.com/DS2-NavSea/CameraLiDARCalibration)
